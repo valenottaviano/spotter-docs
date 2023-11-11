@@ -13,7 +13,6 @@ export default ((opts?: Options) => {
     return (
       <footer class={`${displayClass ?? ""}`}>
         <hr />
-        e
         <ul>
           {Object.entries(links).map(([text, link]) => (
             <li>
