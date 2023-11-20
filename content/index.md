@@ -9,4 +9,4 @@ Revolutionize your parking experience with our cutting-edge startup focused on s
 - [[QReader]]
 	- [[Introduction]]
 	- [[System Overview]]
-- [[Optimization Analysis]]
+- [[Análisis de Uso]]

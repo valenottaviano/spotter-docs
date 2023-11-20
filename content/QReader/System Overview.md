@@ -1,34 +1,34 @@
 ![[Pasted image 20231112153009.png]]
-## 1. Fullstack Web Application (Next.js)
+## 1. Aplicación web fullstack (Next.js)
 
-Our QR code reader system is built upon a robust fullstack web application developed using the Next.js framework. Hosted on Vercel, this application serves as the interface for seamless user interactions. Key components include:
+Nuestro sistema lector de códigos QR se basa en una robusta aplicación web fullstack desarrollada utilizando el framework Next.js. Alojada en Vercel, esta aplicación sirve como interfaz para interacciones fluidas con el usuario. Los componentes clave incluyen:
 
-- **Next.js Framework:** The application is programmed using the Next.js framework, providing a powerful and efficient development environment.
+- **Marco Next.js:** La aplicación está programada utilizando el marco Next.js, proporcionando un entorno de desarrollo potente y eficiente.
 
-- **Vercel Hosting:** The entire system is hosted on Vercel, ensuring reliability and scalability.
+- **Alojamiento Vercel:** Todo el sistema está alojado en Vercel, lo que garantiza su fiabilidad y escalabilidad.
 
-- **Numerous Endpoints:** The application exposes multiple endpoints to facilitate seamless integration with external systems.
+- **Numerosos Endpoints:** La aplicación expone múltiples endpoints para facilitar la integración con sistemas externos.
 
-- **QR Code Reading Component:** A specialized component within the application is dedicated to reading and validating QR codes, ensuring a secure and efficient entry process.
+- **Componente de lectura de códigos QR:** Un componente especializado dentro de la aplicación se dedica a la lectura y validación de códigos QR, garantizando un proceso de entrada seguro y eficiente.
 
-## 2. QR Codes Validation Proxy
+## 2. Proxy de validación de códigos QR
 
-To validate QR codes, our system employs a proxy that communicates with the "UNSTA" site, verifying the information extracted by the QR code reader component. Key features include:
+Para validar los códigos QR, nuestro sistema emplea un proxy que se comunica con el sitio "UNSTA", verificando la información extraída por el componente lector de códigos QR. Las principales características son:
 
-- **Communication with "UNSTA" Site:** The validation proxy establishes communication with the "UNSTA" site, ensuring real-time validation of QR code information.
+- **Comunicación con el sitio "UNSTA":** El proxy de validación establece comunicación con el sitio "UNSTA", garantizando la validación en tiempo real de la información del código QR.
 
-- **Secure Data Transmission:** All data exchanged between the QR code reader component and the "UNSTA" site is transmitted securely through the validation proxy.
+- **Transmisión segura de datos:** Todos los datos intercambiados entre el componente lector de códigos QR y el sitio "UNSTA" se transmiten de forma segura a través del proxy de validación.
 
-- **Real-time Validation:** The proxy facilitates real-time validation, confirming the authenticity of the QR code information before granting access.
+- **Validación en tiempo real:** El proxy facilita la validación en tiempo real, confirmando la autenticidad de la información del código QR antes de conceder el acceso.
 
-## 3. Database for Transaction History
+## 3. Base de datos para el historial de transacciones
 
 ![[Pasted image 20231112153825.png]]
 
-Our system maintains a comprehensive database that stores every transaction, providing valuable historical data for parking management. Key attributes of the database include:
+Nuestro sistema mantiene una completa base de datos que almacena todas las transacciones, proporcionando valiosos datos históricos para la gestión del aparcamiento. Los atributos clave de la base de datos incluyen:
 
-- **Transaction Logging:** Every entry and exit event is logged, creating a historical record of parking transactions.
+- **Registro de transacciones:** Cada evento de entrada y salida se registra, creando un registro histórico de las transacciones de aparcamiento.
 
-- **Historical Data Analysis:** The database facilitates detailed analysis of parking patterns and trends over time.
+- Análisis de datos históricos:** La base de datos facilita el análisis detallado de los patrones y tendencias de aparcamiento a lo largo del tiempo.
 
-- **Data Integrity:** Robust data storage mechanisms ensure the integrity and reliability of historical parking data.
+- Integridad de los datos:** Los sólidos mecanismos de almacenamiento de datos garantizan la integridad y fiabilidad de los datos históricos de aparcamiento.
