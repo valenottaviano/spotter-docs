@@ -3,10 +3,10 @@ title: Docs | Spotter AI
 ---
 ![[mockup.png]]
 
-Revolutionize your parking experience with our cutting-edge startup focused on security and efficiency. We leverage state-of-the-art QR code technology for seamless user validations, ensuring a swift and secure entry process. Our AI algorithms take parking optimization to the next level, intelligently managing parking spaces for maximum efficiency. Say goodbye to the hassle of finding a spot—welcome to the future of stress-free parking.
+Revolucione su experiencia de aparcamiento con nuestra vanguardista startup centrada en la seguridad y la eficiencia. Aprovechamos la tecnología de código QR más avanzada para realizar validaciones de usuario sin problemas, garantizando un proceso de entrada rápido y seguro. Nuestros algoritmos de IA llevan la optimización del aparcamiento al siguiente nivel, gestionando de forma inteligente las plazas de aparcamiento para lograr la máxima eficiencia. Despídete de la molestia de encontrar aparcamiento y da la bienvenida al futuro del aparcamiento sin estrés.
 
 ## Table of Content
 - [[QReader]]
-	- [[Introduction]]
+	- [[QReader/Introducción|Introducción]]
 	- [[System Overview]]
 - [[Análisis de Uso]]
