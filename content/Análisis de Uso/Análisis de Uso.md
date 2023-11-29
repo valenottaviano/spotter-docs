@@ -1,2 +1,0 @@
-- [[Análisis de Uso/Introducción|Introducción]]
-- [[Resultados]]

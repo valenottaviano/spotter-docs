@@ -1,12 +1,4 @@
-### Gráficos Generados:
-- **Gráfico de Simulación Diaria:**
-  - Muestra la variación en el tamaño de la cola a lo largo del tiempo para un día específico.
-
-- **Gráfico de Caja Semanal:**
-  - Muestra la distribución del tamaño de la cola en diferentes días de la semana.
-
-
-## Para un tiempo de 15 segundos en el sistema
+## Simulación para $t=15s$
 Se simula para cada día de la semana el uso de la aplicación para el ingreso en la barrera, asumiendo un tiempo de 15 segundos en el ingreso, y 1 barrera de entrada.
 ### Lunes
 

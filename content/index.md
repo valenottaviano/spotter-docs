@@ -7,6 +7,4 @@ Revolucione su experiencia de aparcamiento con nuestra vanguardista startup cent
 
 ## Table of Content
 - [[QReader]]
-	- [[QReader/Introducción|Introducción]]
-	- [[System Overview]]
-- [[Análisis de Uso]]
+- [[Análisis de Latencia]]
